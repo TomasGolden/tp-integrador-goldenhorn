@@ -1,1 +1,3 @@
-# tp-integrador-goldenhorn
+# TP Integrador - Computacion Aplicada
+Integrantes:
+ - Tomas Goldenhorn
